@@ -1,0 +1,1712 @@
+[
+  {
+    "image_id": null,
+    "bbox": [
+      0.0,
+      2829.666748046875,
+      4721.58984375,
+      626.333251953125
+    ],
+    "score": 0.6976235508918762,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 2957288
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3804.982566833496,
+      3314.582305908203,
+      627.6981887817383,
+      141.41769409179688
+    ],
+    "score": 0.6952475905418396,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 88767
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4369.735206604004,
+      3315.8330078125,
+      730.9387741088867,
+      140.1669921875
+    ],
+    "score": 0.6517763137817383,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 102453
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4112.981002807617,
+      3311.1622009277344,
+      486.50257873535156,
+      144.83779907226562
+    ],
+    "score": 0.6338769793510437,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 70463
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3599.769874572754,
+      3310.9032592773438,
+      512.0869674682617,
+      145.09674072265625
+    ],
+    "score": 0.6282979846000671,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 74302
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3304.548385620117,
+      2213.701160430908,
+      704.5567779541016,
+      691.7651481628418
+    ],
+    "score": 0.6170464158058167,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 487387
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      519.7142944335938,
+      2496.095359802246,
+      704.6133422851562,
+      563.3945388793945
+    ],
+    "score": 0.6165465712547302,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 396975
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4690.588424682617,
+      1584.926902770996,
+      448.5269012451172,
+      704.5856399536133
+    ],
+    "score": 0.6138543486595154,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 316025
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      699.3109359741211,
+      1264.0985832214355,
+      525.0024795532227,
+      550.6033821105957
+    ],
+    "score": 0.6124072670936584,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 289068
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1764.479347229004,
+      1135.6872062683105,
+      525.0312118530273,
+      691.8237800598145
+    ],
+    "score": 0.6065081357955933,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 363229
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2200.9043464660645,
+      2059.684730529785,
+      563.4193840026855,
+      678.9579391479492
+    ],
+    "score": 0.6046376824378967,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 382538
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1918.509620666504,
+      2188.09619140625,
+      563.3543930053711,
+      704.5663452148438
+    ],
+    "score": 0.5948217511177063,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 396920
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2085.365737915039,
+      2662.9057121276855,
+      383.7185516357422,
+      537.7427864074707
+    ],
+    "score": 0.5942990779876709,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 206341
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4395.355613708496,
+      57.7472038269043,
+      524.9570693969727,
+      524.9333076477051
+    ],
+    "score": 0.5929697751998901,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 275567
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1302.5166015625,
+      1905.6853141784668,
+      691.8055725097656,
+      691.829029083252
+    ],
+    "score": 0.5896438956260681,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 478611
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2380.509521484375,
+      1122.901512145996,
+      563.3399047851562,
+      691.7781753540039
+    ],
+    "score": 0.5866868495941162,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 389706
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1610.516456604004,
+      1726.0901374816895,
+      525.0006942749023,
+      537.7918815612793
+    ],
+    "score": 0.5821062922477722,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 282341
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4690.535743713379,
+      1918.5380859375,
+      435.7815475463867,
+      666.146728515625
+    ],
+    "score": 0.5804585218429565,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 290294
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3766.501853942871,
+      660.9290542602539,
+      691.8003005981445,
+      537.7756271362305
+    ],
+    "score": 0.5792601108551025,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 372033
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      840.4957122802734,
+      1726.1008796691895,
+      691.8209991455078,
+      537.7775993347168
+    ],
+    "score": 0.5762211680412292,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 372045
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1443.7051277160645,
+      2496.096290588379,
+      691.8027763366699,
+      704.6166610717773
+    ],
+    "score": 0.5750415921211243,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 487455
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2534.500389099121,
+      126.2777328491211,
+      524.9868545532227,
+      469.22183990478516
+    ],
+    "score": 0.5748358964920044,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 246335
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1597.7097663879395,
+      1289.6959953308105,
+      422.1717643737793,
+      525.0091743469238
+    ],
+    "score": 0.5743886828422546,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 221644
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      827.7294425964355,
+      2034.087257385254,
+      704.6027717590332,
+      691.8022079467773
+    ],
+    "score": 0.5726991891860962,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 487445
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2380.638381958008,
+      2342.0963973999023,
+      691.6647796630859,
+      550.579963684082
+    ],
+    "score": 0.5708725452423096,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 380816
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1610.5148468017578,
+      2034.0918807983398,
+      678.9956512451172,
+      717.4216995239258
+    ],
+    "score": 0.5706368088722229,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 487126
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      994.4879379272461,
+      2367.6708374023438,
+      666.2507400512695,
+      666.1820983886719
+    ],
+    "score": 0.5698192715644836,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 443844
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1905.7227058410645,
+      981.7131843566895,
+      550.5917472839355,
+      666.1566886901855
+    ],
+    "score": 0.5692884922027588,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 366780
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      840.5044937133789,
+      1443.6861457824707,
+      704.6061935424805,
+      537.8157157897949
+    ],
+    "score": 0.5675125122070312,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 378948
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1751.702980041504,
+      1597.6780281066895,
+      691.8124618530273,
+      666.1888542175293
+    ],
+    "score": 0.5653680562973022,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 460877
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2393.30525970459,
+      1751.680809020996,
+      666.2166519165039,
+      691.7999954223633
+    ],
+    "score": 0.5652733445167542,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 460888
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1148.512306213379,
+      1880.0939559936523,
+      537.8081893920898,
+      396.6071243286133
+    ],
+    "score": 0.5636654496192932,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 213298
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1007.3124542236328,
+      968.90576171875,
+      666.2022857666016,
+      704.59716796875
+    ],
+    "score": 0.5630123615264893,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 469404
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2675.7065048217773,
+      2059.690574645996,
+      563.387580871582,
+      653.2862930297852
+    ],
+    "score": 0.562896728515625,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 368053
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2367.722267150879,
+      1572.1030387878418,
+      537.7813034057617,
+      383.7298774719238
+    ],
+    "score": 0.5623472929000854,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 206362
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4536.597496032715,
+      1892.935157775879,
+      383.6873245239258,
+      383.69551849365234
+    ],
+    "score": 0.5615095496177673,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147219
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2213.690818786621,
+      1430.920021057129,
+      563.4311599731445,
+      396.58641815185547
+    ],
+    "score": 0.5612612962722778,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 223449
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1905.6988906860352,
+      2521.671974182129,
+      396.6344223022461,
+      537.8203964233398
+    ],
+    "score": 0.5611178874969482,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 213318
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1007.3125991821289,
+      2662.8878898620605,
+      383.8026351928711,
+      537.7800788879395
+    ],
+    "score": 0.5610759854316711,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 206401
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      558.1694183349609,
+      2046.894775390625,
+      524.9293060302734,
+      678.965087890625
+    ],
+    "score": 0.5607823133468628,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 356408
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2380.531204223633,
+      352.9220199584961,
+      691.7541046142578,
+      396.47803497314453
+    ],
+    "score": 0.5606152415275574,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 274265
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2059.686622619629,
+      1572.0973281860352,
+      537.8462448120117,
+      550.6059799194336
+    ],
+    "score": 0.5596147775650024,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 296141
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2046.897216796875,
+      1892.9284172058105,
+      525.0,
+      550.5850105285645
+    ],
+    "score": 0.5593305230140686,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 289057
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2521.7214736938477,
+      2188.093017578125,
+      383.7816390991211,
+      383.7696838378906
+    ],
+    "score": 0.5590255260467529,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147283
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      840.5035171508789,
+      2342.0808601379395,
+      383.82662200927734,
+      563.4148063659668
+    ],
+    "score": 0.5588486194610596,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 216253
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1918.5251083374023,
+      1418.1077041625977,
+      524.9840774536133,
+      383.76534271240234
+    ],
+    "score": 0.5583218336105347,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 201470
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2701.3439331054688,
+      2354.89998626709,
+      383.7569580078125,
+      383.7942581176758
+    ],
+    "score": 0.5581048727035522,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147283
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3612.5033111572266,
+      352.92729568481445,
+      704.5994110107422,
+      550.5832023620605
+    ],
+    "score": 0.5579040050506592,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 387940
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1122.8978996276855,
+      2059.682273864746,
+      383.82670974731445,
+      383.81421661376953
+    ],
+    "score": 0.5573657751083374,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147318
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1584.9055671691895,
+      1572.1074714660645,
+      550.6059074401855,
+      409.39155197143555
+    ],
+    "score": 0.55678391456604,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 225413
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2380.552391052246,
+      224.6393051147461,
+      383.74658966064453,
+      383.6486282348633
+    ],
+    "score": 0.5560730695724487,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147223
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      827.7061996459961,
+      1443.68408203125,
+      383.82425689697266,
+      383.81805419921875
+    ],
+    "score": 0.5552638173103333,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147318
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      686.5226669311523,
+      1584.8948593139648,
+      396.59754180908203,
+      678.9490737915039
+    ],
+    "score": 0.5551815032958984,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 269269
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2226.517623901367,
+      1122.9067497253418,
+      396.59620666503906,
+      524.9413032531738
+    ],
+    "score": 0.5550379157066345,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 208189
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1469.3622589111328,
+      2816.9103507995605,
+      383.74327087402344,
+      383.7429084777832
+    ],
+    "score": 0.5547465682029724,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147258
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4703.334129333496,
+      660.9931144714355,
+      422.9866714477539,
+      704.4774360656738
+    ],
+    "score": 0.5545617341995239,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 297984
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1289.721336364746,
+      1584.899513244629,
+      563.3993606567383,
+      550.5981979370117
+    ],
+    "score": 0.5536828637123108,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 310206
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4677.724510192871,
+      2521.6779289245605,
+      448.5755386352539,
+      678.9239387512207
+    ],
+    "score": 0.5530315637588501,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 304548
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2675.7136611938477,
+      2034.095558166504,
+      383.7968978881836,
+      383.77025604248047
+    ],
+    "score": 0.5524358749389648,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147289
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      981.7206039428711,
+      981.7087898254395,
+      383.79666900634766,
+      383.7686576843262
+    ],
+    "score": 0.5524324774742126,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147289
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2380.5176391601562,
+      2046.879638671875,
+      383.8008728027344,
+      383.78961181640625
+    ],
+    "score": 0.5517757534980774,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147298
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1430.888427734375,
+      2367.6652336120605,
+      550.6485900878906,
+      383.8538703918457
+    ],
+    "score": 0.5517672300338745,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 211368
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1443.710304260254,
+      2496.087730407715,
+      383.8062973022461,
+      383.7991409301758
+    ],
+    "score": 0.5516049265861511,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147304
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4408.273391723633,
+      57.7607421875,
+      383.5664520263672,
+      383.6847229003906
+    ],
+    "score": 0.5510475039482117,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147168
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4703.419044494629,
+      1430.9467277526855,
+      422.87108612060547,
+      383.73149490356445
+    ],
+    "score": 0.5508927702903748,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 162268
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1302.4901885986328,
+      2675.668701171875,
+      383.83665466308594,
+      383.8273010253906
+    ],
+    "score": 0.5499873757362366,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147326
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3137.705665588379,
+      1726.113670349121,
+      383.82567596435547,
+      563.3830032348633
+    ],
+    "score": 0.5487098097801208,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 216240
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      994.4823226928711,
+      1289.6868057250977,
+      383.8551712036133,
+      383.8252182006836
+    ],
+    "score": 0.5485228300094604,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147333
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1289.7064933776855,
+      2188.0919075012207,
+      383.8111457824707,
+      537.7936515808105
+    ],
+    "score": 0.5473135709762573,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 206411
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4061.7405281066895,
+      1905.710350036621,
+      691.7580070495605,
+      537.7805252075195
+    ],
+    "score": 0.5461017489433289,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 372013
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1751.6902351379395,
+      2521.6714363098145,
+      383.84296798706055,
+      383.8457450866699
+    ],
+    "score": 0.5453563332557678,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147336
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1918.5457000732422,
+      994.5614242553711,
+      383.7619171142578,
+      383.7356948852539
+    ],
+    "score": 0.5451784729957581,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147263
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3291.7214965820312,
+      2059.7058601379395,
+      396.5867004394531,
+      537.7741203308105
+    ],
+    "score": 0.5448687672615051,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 213274
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2367.7304191589355,
+      1726.0985717773438,
+      383.7709846496582,
+      383.7744140625
+    ],
+    "score": 0.5438827276229858,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147281
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1443.7118530273438,
+      1456.5107879638672,
+      383.8143615722656,
+      524.9919891357422
+    ],
+    "score": 0.5434858202934265,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 201499
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2367.721046447754,
+      2367.699607849121,
+      383.79415130615234,
+      383.74893951416016
+    ],
+    "score": 0.5433306694030762,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147280
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1122.901123046875,
+      1430.9049797058105,
+      537.8248901367188,
+      396.5991096496582
+    ],
+    "score": 0.5432711839675903,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 213300
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4074.509323120117,
+      827.7065925598145,
+      383.81163024902344,
+      383.7931022644043
+    ],
+    "score": 0.5430883765220642,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147304
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1905.6940422058105,
+      2059.668601989746,
+      383.8441963195801,
+      383.8476028442383
+    ],
+    "score": 0.5428659915924072,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147337
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2688.504196166992,
+      1738.9019050598145,
+      383.8112335205078,
+      383.7969169616699
+    ],
+    "score": 0.5426393747329712,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147305
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2983.701515197754,
+      2046.9041023254395,
+      550.6216354370117,
+      396.5842399597168
+    ],
+    "score": 0.5425673723220825,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 218367
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3612.519577026367,
+      2508.8816528320312,
+      537.7821197509766,
+      383.8179626464844
+    ],
+    "score": 0.5423815250396729,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 206410
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2829.7332038879395,
+      1905.693016052246,
+      550.5926628112793,
+      396.58960723876953
+    ],
+    "score": 0.5422881841659546,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 218359
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1302.508689880371,
+      1135.6958503723145,
+      537.8155288696289,
+      537.7989616394043
+    ],
+    "score": 0.541964590549469,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 289236
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      827.7333145141602,
+      1880.09521484375,
+      396.5953903198242,
+      550.6082458496094
+    ],
+    "score": 0.5416529774665833,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 218368
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2226.529541015625,
+      968.9145011901855,
+      537.7778930664062,
+      396.55180740356445
+    ],
+    "score": 0.5408154726028442,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 213256
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      519.7149887084961,
+      2367.6728019714355,
+      396.61100006103516,
+      537.8036079406738
+    ],
+    "score": 0.5386000275611877,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 213298
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4536.57421875,
+      2354.913818359375,
+      576.9365234375,
+      409.37255859375
+    ],
+    "score": 0.5379950404167175,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 236181
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1161.352684020996,
+      2816.895030975342,
+      383.73047637939453,
+      383.76103591918945
+    ],
+    "score": 0.5378623604774475,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147260
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      853.3245086669922,
+      1135.693992614746,
+      383.79335021972656,
+      383.80860137939453
+    ],
+    "score": 0.5377835631370544,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147303
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3612.536178588867,
+      2213.6953125,
+      383.7749481201172,
+      383.77728271484375
+    ],
+    "score": 0.5367760062217712,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147284
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3779.383743286133,
+      827.6943244934082,
+      383.72703552246094,
+      383.79706954956055
+    ],
+    "score": 0.5344685316085815,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147273
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3278.9115715026855,
+      1905.699562072754,
+      550.5741767883301,
+      396.55953216552734
+    ],
+    "score": 0.534220814704895,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 218335
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3753.732666015625,
+      2354.8920402526855,
+      704.581787109375,
+      396.5885200500488
+    ],
+    "score": 0.5311523079872131,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 279429
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3304.516342163086,
+      2508.8999519348145,
+      383.8026580810547,
+      524.9610404968262
+    ],
+    "score": 0.5300881862640381,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 201481
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2072.584671020508,
+      365.72455978393555,
+      383.7235870361328,
+      383.74834060668945
+    ],
+    "score": 0.5280638933181763,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147253
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4048.927833557129,
+      519.7122192382812,
+      383.7750473022461,
+      383.77606201171875
+    ],
+    "score": 0.5279581546783447,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147283
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3150.528518676758,
+      2804.0897827148438,
+      537.7794952392578,
+      396.5902099609375
+    ],
+    "score": 0.526780366897583,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 213278
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      391.3174285888672,
+      2675.6715812683105,
+      383.79225158691406,
+      383.8192024230957
+    ],
+    "score": 0.526142954826355,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147306
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1302.509132385254,
+      968.9132308959961,
+      512.1919479370117,
+      396.57373809814453
+    ],
+    "score": 0.5224581956863403,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 203121
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3894.9122200012207,
+      365.73139572143555,
+      383.8000907897949,
+      383.7616157531738
+    ],
+    "score": 0.5223894715309143,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147287
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3432.9267082214355,
+      2059.6870613098145,
+      383.7857856750488,
+      383.8000907897949
+    ],
+    "score": 0.5203338265419006,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147297
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4074.54736328125,
+      1892.9320793151855,
+      383.76458740234375,
+      383.72978591918945
+    ],
+    "score": 0.5199371576309204,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147261
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2380.558395385742,
+      1110.1296005249023,
+      383.7473602294922,
+      383.69461822509766
+    ],
+    "score": 0.5187729597091675,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147241
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      840.5160064697266,
+      2816.8928718566895,
+      383.8034210205078,
+      383.7650260925293
+    ],
+    "score": 0.517282247543335,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147290
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      1610.5061492919922,
+      1135.6837882995605,
+      383.8188018798828,
+      383.8100166320801
+    ],
+    "score": 0.5171709656715393,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147313
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2688.513038635254,
+      2662.889015197754,
+      704.5760116577148,
+      383.7722702026367
+    ],
+    "score": 0.5154967904090881,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 270396
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      4768.300094604492,
+      2816.91748046875,
+      383.5605926513672,
+      383.70855712890625
+    ],
+    "score": 0.5136677026748657,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147175
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3445.732666015625,
+      519.7103996276855,
+      383.7787170410156,
+      383.7792854309082
+    ],
+    "score": 0.5116345882415771,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147286
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      532.5125885009766,
+      2816.901954650879,
+      383.7948455810547,
+      383.74532318115234
+    ],
+    "score": 0.5087012648582458,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147279
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      532.519775390625,
+      1597.6788940429688,
+      383.8028259277344,
+      383.8052978515625
+    ],
+    "score": 0.5076954960823059,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147305
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      3445.737205505371,
+      2662.894920349121,
+      396.5774917602539,
+      550.5931777954102
+    ],
+    "score": 0.5030012726783752,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 218352
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      2059.7671508789062,
+      827.71728515625,
+      383.7183532714844,
+      383.68634033203125
+    ],
+    "score": 0.5004837512969971,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147227
+  },
+  {
+    "image_id": null,
+    "bbox": [
+      545.3704605102539,
+      2034.0998039245605,
+      383.7201156616211,
+      383.7162055969238
+    ],
+    "score": 0.5002044439315796,
+    "category_id": 0,
+    "category_name": "animal",
+    "segmentation": [],
+    "iscrowd": 0,
+    "area": 147239
+  }
+]
